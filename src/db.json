@@ -1,0 +1,53 @@
+{
+  "skills": ["ReactJS", "AngularJS", "NodeJS", "MySQL", "MongoDB", "Git"],
+  "utils": ["ExpressJS", "Auth0", "Sass", "TypeScript", "Python"],
+  "projects": [
+    {
+      "project": "WeatherApp",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevwMGLsimsdRedWfcDpXkShaFvkIFMqxBog&usqp=CAU",
+      "links": {
+        "repository": "https://github.com/cxdetest/weather-app",
+        "deployment": "/"
+      }
+    },
+    {
+      "project": "TodoApp",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevwMGLsimsdRedWfcDpXkShaFvkIFMqxBog&usqp=CAU",
+      "links": {
+        "repository": "https://github.com/cxdetest/todo",
+        "deployment": "https://todo-cxdetest.netlify.app/"
+      }
+    },
+    {
+      "project": "Games Gallery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevwMGLsimsdRedWfcDpXkShaFvkIFMqxBog&usqp=CAU",
+      "links": {
+        "repository": "https://github.com/cxdetest/gamesgallery-server",
+        "deployment": "https://github.com/cxdetest/gamesgallery-client"
+      }
+    },
+    {
+      "project": "Photo Gallery",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevwMGLsimsdRedWfcDpXkShaFvkIFMqxBog&usqp=CAU",
+      "links": {
+        "repository": "https://github.com/cxdetest/photogallery-server",
+        "deployment": "https://github.com/cxdetest/photogallery-client"
+      }
+    },
+    {
+      "project": "Favorite Links",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevwMGLsimsdRedWfcDpXkShaFvkIFMqxBog&usqp=CAU",
+      "links": {
+        "repository": "https://github.com/cxdetest/favorite_links",
+        "deployment": "/"
+      }
+    }
+  ],
+  "works": [
+    {
+      "position": "Freelancer",
+      "age": "2021 - current",
+      "comment": "I'm proud to have collaborated with some awesome companies and projects."
+    }
+  ]
+}

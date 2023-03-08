@@ -1,0 +1,41 @@
+.navigation {
+  position: fixed;
+  bottom: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  backdrop-filter: blur(5px);
+  padding: 10px auto;
+  z-index: 999;
+  text-align: center;
+
+  * {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+  }
+
+  svg {
+    font-size: 20px;
+
+    * {
+      color: #0f9ef1bb;
+    }
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  span {
+    display: block;
+    font-weight: bold;
+    border-radius: 10px;
+
+    &:hover {
+      background-color: rgb(9, 112, 160);
+      color: aliceblue;
+      text-shadow: 0 3px 3px rgba(0, 0, 0, 0.8);
+    }
+  }
+}
